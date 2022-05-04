@@ -1,0 +1,11 @@
+A_gpio_f407_drv.c:28:6:GPIO_Clock_CONTROL	16	static
+A_gpio_f407_drv.c:59:6:GPIO_Init	24	static
+A_gpio_f407_drv.c:190:6:GPIO_Deinit	16	static
+A_gpio_f407_drv.c:211:10:GPIO_Read	16	static
+A_gpio_f407_drv.c:232:6:GPIO_Write_PIN	16	static
+A_gpio_f407_drv.c:254:6:GPIO_Write_PORT	16	static
+A_gpio_f407_drv.c:276:6:GPIO_Toggle_PIN	16	static
+A_gpio_f407_drv.c:296:6:GPIO_IRQConf	24	static
+A_gpio_f407_drv.c:329:6:GPIO_IRQHandler	16	static
+A_gpio_f407_drv.c:351:6:SOFT_IRQ_Request	16	static
+A_gpio_f407_drv.c:371:9:Event_Pending	24	static

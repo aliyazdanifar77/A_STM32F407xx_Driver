@@ -1,0 +1,5 @@
+"./Src/interrupt.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f407zgtx.o"
+"./driver/src/A_gpio_f407_drv.o"
